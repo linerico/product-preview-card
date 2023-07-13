@@ -59,6 +59,7 @@ body {
 
 .detail .category {
   letter-spacing: 4px;
+  color: var(--dark-grayish);
 }
 
 .detail .title {
@@ -68,6 +69,7 @@ body {
 
 .detail p {
   line-height: 25px;
+  color: var(--dark-grayish);
 }
 
 .detail .price {
@@ -84,7 +86,7 @@ body {
 
 .detail .price .actual {
   text-decoration: line-through;
-  opacity: 50%;
+  color: var(--dark-grayish);
 }
 
 .action {
